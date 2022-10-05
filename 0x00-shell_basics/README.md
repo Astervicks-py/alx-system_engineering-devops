@@ -1,1 +1,1 @@
-A script that prints the absolute path name of the current working directory.
+To move betty from /tmp/ to /tmp/my_first_directory
