@@ -1,1 +1,1 @@
-a script that gives only user all the permission
+a script that changes the mode ofd hello to -rwxr-x-wx
