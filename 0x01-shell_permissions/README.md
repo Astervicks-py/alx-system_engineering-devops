@@ -1,1 +1,1 @@
-a script that changes the mode ofd hello to -rwxr-x-wx
+A script that set the mode of a file hello to rwxdr-x-wx
