@@ -1,1 +1,1 @@
-A script that set the mode of a file hello to rwxdr-x-wx
+a script the create mirror imge of another file
